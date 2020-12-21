@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-final/static/css/main.22d46870.chunk.css",
+    "main.js": "/react-final/static/js/main.ca336297.chunk.js",
+    "main.js.map": "/react-final/static/js/main.ca336297.chunk.js.map",
+    "runtime-main.js": "/react-final/static/js/runtime-main.a989ed01.js",
+    "runtime-main.js.map": "/react-final/static/js/runtime-main.a989ed01.js.map",
+    "static/js/2.f8708b90.chunk.js": "/react-final/static/js/2.f8708b90.chunk.js",
+    "static/js/2.f8708b90.chunk.js.map": "/react-final/static/js/2.f8708b90.chunk.js.map",
+    "static/js/3.67bb7a97.chunk.js": "/react-final/static/js/3.67bb7a97.chunk.js",
+    "static/js/3.67bb7a97.chunk.js.map": "/react-final/static/js/3.67bb7a97.chunk.js.map",
+    "index.html": "/react-final/index.html",
+    "static/css/main.22d46870.chunk.css.map": "/react-final/static/css/main.22d46870.chunk.css.map",
+    "static/js/2.f8708b90.chunk.js.LICENSE.txt": "/react-final/static/js/2.f8708b90.chunk.js.LICENSE.txt",
+    "static/media/email.png": "/react-final/static/media/email.34365e46.png",
+    "static/media/footer.png": "/react-final/static/media/footer.98e68683.png",
+    "static/media/google.png": "/react-final/static/media/google.661681cc.png",
+    "static/media/logo.png": "/react-final/static/media/logo.564fdf47.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a989ed01.js",
+    "static/js/2.f8708b90.chunk.js",
+    "static/css/main.22d46870.chunk.css",
+    "static/js/main.ca336297.chunk.js"
+  ]
+}
