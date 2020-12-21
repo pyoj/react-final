@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+}
+
+body {
+  position: relative;
+  min-height: 100%;
+  overflow: auto;
+}
+
+.container {
+  padding: 10px;
+  margin: 0 auto;
+}
