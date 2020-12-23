@@ -33,7 +33,7 @@ class Countries extends React.Component {
 
   render() {
     return (
-      <table id="countries">
+      <table id="countries" style={{ margin: "0 auto" }}>
         <thead>
           <tr>
             {Object.keys(FIELDS).map((item, index) => {
